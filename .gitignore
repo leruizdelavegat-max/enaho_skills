@@ -1,0 +1,10 @@
+# Entorno
+.venv/
+__pycache__/
+
+# Datos del INEI: se bajan con la skill descargando-enaho
+datos/*.dta
+datos/*.zip
+
+# Base intermedia: se regenera con la skill limpiando-enaho
+salidas/*.parquet
