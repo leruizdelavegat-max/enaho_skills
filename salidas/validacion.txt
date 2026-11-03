@@ -1,0 +1,12 @@
+Validación ENAHO 2024
+OK      Hogares en sumaria: 33,691 (esperado 33,691)
+OK      Filas en módulo 200: 117,721 (esperado 117,721)
+OK      Residentes habituales: 108,664 (esperado 108,664)
+OK      Hogares duplicados en sumaria: 0 (esperado 0)
+OK      Personas sin hogar en la unión: 0 (esperado 0)
+OK      Llaves con 6 dígitos en ubigeo: 1
+OK      Departamentos encontrados: 25 (esperado 25)
+OK      Población expandida (millones): 34.1 (esperado 34.5)
+OK      Pobreza % (personas, facpob07): 27.5 (esperado 27.6)
+OK      Pobreza % (sumaria, factor07 x mieperho): 27.6 (esperado 27.6)
+Base: salidas\personas_2024.parquet (108,664 filas)
