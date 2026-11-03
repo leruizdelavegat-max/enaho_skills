@@ -1,0 +1,4 @@
+ENAHO 2024 (código 966)
+sumaria-2024.dta	21.2 MB
+enaho01-2024-200.dta	10.2 MB
+peru_departamental.geojson	0.1 MB
